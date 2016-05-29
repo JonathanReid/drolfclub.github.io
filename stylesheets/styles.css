@@ -2,7 +2,7 @@ body {
   background-color: #FFBF00;
 }
 
-.logo
+#logo
 {
   position: absolute;
   top: 50%;
@@ -12,7 +12,7 @@ body {
   margin: 0 auto;
 }
 
-.logo img
+#logo img
 {
   max-width: 100%;
   height: auto;
